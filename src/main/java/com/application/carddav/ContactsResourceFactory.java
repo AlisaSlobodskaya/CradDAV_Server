@@ -1,9 +1,9 @@
-package com.application;
+package com.application.carddav;
 
-import com.application.dao.ContactsDAO;
-import com.application.dao.UsersDAO;
-import com.application.resource.ContactManager;
-import com.application.resource.RootResource;
+import com.application.carddav.dao.ContactsDAO;
+import com.application.carddav.dao.UsersDAO;
+import com.application.carddav.resource.ContactManager;
+import com.application.carddav.resource.RootResource;
 import io.milton.common.Path;
 import io.milton.http.HttpManager;
 import io.milton.http.ResourceFactory;

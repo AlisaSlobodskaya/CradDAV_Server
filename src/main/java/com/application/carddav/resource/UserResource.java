@@ -1,7 +1,7 @@
-package com.application.resource;
+package com.application.carddav.resource;
 
-import com.application.entity.User;
-import com.application.utils.ChildUtils;
+import com.application.carddav.entity.User;
+import com.application.carddav.utils.ChildUtils;
 import io.milton.http.exceptions.BadRequestException;
 import io.milton.http.exceptions.NotAuthorizedException;
 import io.milton.http.values.HrefList;

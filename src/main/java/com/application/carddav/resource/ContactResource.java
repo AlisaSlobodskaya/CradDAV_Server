@@ -1,6 +1,6 @@
-package com.application.resource;
+package com.application.carddav.resource;
 
-import com.application.entity.Contact;
+import com.application.carddav.entity.Contact;
 import io.milton.http.Auth;
 import io.milton.http.Range;
 import io.milton.http.exceptions.BadRequestException;

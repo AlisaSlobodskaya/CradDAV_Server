@@ -1,7 +1,7 @@
-package com.application.resource;
+package com.application.carddav.resource;
 
-import com.application.entity.Contact;
-import com.application.utils.ChildUtils;
+import com.application.carddav.entity.Contact;
+import com.application.carddav.utils.ChildUtils;
 import io.milton.common.InternationalizedString;
 import io.milton.http.Auth;
 import io.milton.http.Range;

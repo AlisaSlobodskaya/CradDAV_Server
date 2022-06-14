@@ -1,4 +1,4 @@
-package com.application.utils;
+package com.application.carddav.utils;
 
 import io.milton.resource.Resource;
 

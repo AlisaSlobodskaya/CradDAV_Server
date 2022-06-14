@@ -1,6 +1,6 @@
-package com.application.dao;
+package com.application.carddav.dao;
 
-import com.application.entity.Contact;
+import com.application.carddav.entity.Contact;
 import lombok.Getter;
 
 import java.util.HashSet;

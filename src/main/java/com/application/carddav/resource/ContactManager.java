@@ -1,8 +1,8 @@
-package com.application.resource;
+package com.application.carddav.resource;
 
-import com.application.dao.ContactsDAO;
-import com.application.dao.UsersDAO;
-import com.application.entity.Contact;
+import com.application.carddav.dao.ContactsDAO;
+import com.application.carddav.dao.UsersDAO;
+import com.application.carddav.entity.Contact;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

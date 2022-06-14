@@ -1,6 +1,6 @@
-package com.application.resource;
+package com.application.carddav.resource;
 
-import com.application.entity.User;
+import com.application.carddav.entity.User;
 import io.milton.http.Auth;
 import io.milton.http.Request;
 import io.milton.http.Request.Method;
